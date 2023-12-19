@@ -1,0 +1,60 @@
+.main-conatiner{
+    display:inline;
+}
+.inner-container_1{
+     background-color: #fff;
+     padding:2rem 5rem;
+     border-radius:1rem;
+     box-shadow: 0 1rem -0.7rem rgba(0 0 0 0.4);
+    text-align:center;
+    postion:relative;
+    float:left;
+}
+#User_login,
+.btn{
+    outline:none;
+    font-size:50;
+    display:block;
+    margin:auto;
+    border:none;
+    padding:2rem 2rem;
+    text-transform:uppercase;
+    color:#fff;
+    background-color: darkorchid;
+    cursor:pointer;
+}
+#Admin_login,
+.btn{
+    outline:none;
+    font-size:50;
+    display:block;
+    margin:auto;
+    border:none;
+    padding:2rem 2rem;
+    text-transform:uppercase;
+    color:#fff;
+    background-color: darkorchid;
+    cursor:pointer;
+}
+#guest,
+.btn{
+    outline:none;
+    font-size:50;
+    display:block;
+    margin:auto;
+    border:none;
+    padding:2rem 2rem;
+    text-transform:uppercase;
+    color:#fff;
+    background-color: darkorchid;
+    cursor:pointer;
+}
+.inner-container_2{
+    text-align:center;
+    postion: relative;
+    float: right;
+    background-image: url(C:\Users\sai.k.pendyala\IdeaProjects\STRS\.idea\loginpage\logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
